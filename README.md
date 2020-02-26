@@ -1,7 +1,8 @@
 ## DS/ML/AI Challenge 
   
     
-This is the CodeDoor Coding Challenge for ML/DS/AI.
+This is the CodeDoor Coding Challenge for ML/DS/AI.</br>
+![select](/docs/logo.png)
 
 
 ### Install the Packages
