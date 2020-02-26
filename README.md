@@ -2,7 +2,8 @@
   
     
 This is the CodeDoor Coding Challenge for ML/DS/AI.</br>
-![select](/docs/logo.png)
+
+<img align="right" src="docs/logo.png"> 
 
 
 ### Install the Packages
